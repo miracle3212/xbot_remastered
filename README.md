@@ -1,5 +1,5 @@
 # xbot_remastered
-Xbot (Remastered in 2016) 
+xBOT (Remastered in 2016) 
 
 ## Disclaimer 
   Thanks to @Ajin_Abraham for the base code 
