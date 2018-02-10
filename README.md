@@ -1,4 +1,6 @@
 # xbot_remastered 🤖
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered?ref=badge_shield)
+
 xBOT (Remastered in 2016) 
 + Type: RAT 🐀
 + Language: Python 
@@ -17,3 +19,7 @@ Thanks to [@Ajin_Abraham](https://github.com/ajinabraham) for the base code
 - Some modules are reconfigured/deleted, 'cause its original state make the bot lesser stability.   
 
 🎥 [Demo](https://goo.gl/BdUvGl)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered?ref=badge_large)
