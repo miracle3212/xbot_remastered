@@ -1,7 +1,9 @@
 # xbot_remastered 🤖
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzard777%2Fxbot_remastered?ref=badge_shield)
 
-xBOT (Remastered in 2016) 
+#### **```Cross Platform PoC Bot that abuse certain Google Services to implement C2 servers```**
+> **xBOT (Remastered in 2016)** 
+ 
 + Type: RAT 🐀
 + Language: Python 
 + Cross-platform: Windows ✅ | Linux ✅ | OSX ✅
